@@ -58,10 +58,7 @@
           "width": 0.0
         }
       ],
-      "drc_exclusions": [
-        "lib_footprint_mismatch|124460000|98425000|3ef8a5e2-a79e-4e6d-af68-3aeeda5e0a04|00000000-0000-0000-0000-000000000000",
-        "lib_footprint_mismatch|209460000|58425000|db248f93-4b37-4477-857b-70aa027138bf|00000000-0000-0000-0000-000000000000"
-      ],
+      "drc_exclusions": [],
       "meta": {
         "version": 2
       },
@@ -481,11 +478,11 @@
       "gencad": "",
       "idf": "",
       "netlist": "",
-      "plot": "",
+      "plot": "outputs/",
       "pos_files": "",
       "specctra_dsn": "",
       "step": "",
-      "svg": "",
+      "svg": "outputs/",
       "vrml": ""
     },
     "page_layout_descr_file": ""
